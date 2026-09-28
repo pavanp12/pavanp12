@@ -1,10 +1,6 @@
 <div align="center">
 
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:0A66C2,50:161b22,100:00C896" width="100%"/>
-
-</div>
 
 # PAVAN PANCHAL
 
@@ -12,8 +8,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/pavanp12/
-">
+<a href="https://www.linkedin.com/in/pavanp12/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -27,7 +22,7 @@
 
 </div>
 
-<table>
+<table align="center">
 <tr>
 
 <td width="50%" align="center" valign="middle">
@@ -91,7 +86,9 @@ ENTERPRISE PRODUCTION　·　24×7 OPERATIONS
 
 </div>
 
-<table>
+<div align="center">
+
+<table align="center">
 <tr>
 
 <td width="50%" valign="top">
@@ -208,11 +205,11 @@ Change · Release · Problem Management
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
-
-
 
 <br>
 
