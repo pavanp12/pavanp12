@@ -1,53 +1,66 @@
 <div align="center">
 
-# PAVAN PANCHAL
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00ff9c&height=220&section=header&text=PAVAN%20PANCHAL&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=SITE%20RELIABILITY%20ENGINEER%20%7C%20CLOUD%20%7C%20KUBERNETES%20%7C%20AUTOMATION&descSize=16&descAlignY=62" width="100%"/>
 
-### SITE RELIABILITY ENGINEER · CLOUD · KUBERNETES · AUTOMATION
+<br>
 
-<p>
-  Building reliable systems through
-  <b>automation</b>,
-  <b>observability</b> and
-  <b>engineering discipline</b>.
-</p>
+<a href="https://github.com/pavanp12">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=Building+reliable+systems.;Automating+the+boring+stuff.;Observability+%7C+Automation+%7C+Reliability;Cloud+Infrastructure+%7C+Kubernetes+%7C+SRE" />
+</a>
 
-<p>
-  <a href="https://github.com/pavanp12">GitHub</a>
-  ·
-  <a href="https://www.linkedin.com/">LinkedIn</a>
-</p>
+<br><br>
+
+<a href="https://github.com/pavanp12">
+<img src="https://img.shields.io/github/followers/pavanp12?label=Followers&style=for-the-badge&color=161b22&labelColor=00ff9c" />
+</a>
+
+<a href="https://github.com/pavanp12">
+<img src="https://img.shields.io/github/stars/pavanp12?label=Stars&style=for-the-badge&color=161b22&labelColor=00ff9c" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=for-the-badge&logo=linkedin&logoColor=00ff9c" />
+</a>
 
 </div>
 
 ---
 
-## ⚡ What I Do
+<div align="center">
+
+## ⚡ ENGINEERING MINDSET
+
+### `OBSERVE → UNDERSTAND → AUTOMATE → IMPROVE`
+
+</div>
+
+<br>
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### ☁️ Cloud
+### ☁️ CLOUD
 
 AWS  
-EC2 · VPC · S3 · EKS  
-IAM · ECR · Route 53
+EC2 · VPC · S3  
+EKS · IAM · CloudWatch
 
 </td>
 
 <td width="33%" align="center">
 
-### ☸️ Platform
+### ☸️ PLATFORM
 
 Kubernetes  
 Docker · Helm  
-Terraform · Ansible
+Terraform · ArgoCD
 
 </td>
 
 <td width="33%" align="center">
 
-### 📊 Reliability
+### 📊 RELIABILITY
 
 Observability  
 Incident Response  
@@ -59,180 +72,44 @@ RCA · DR · Automation
 
 ---
 
-# 🧭 Engineering Stack
-
-| Domain | Technologies |
-|---|---|
-| ☁️ Cloud | AWS · EC2 · VPC · S3 · EKS · ECR · IAM · Route 53 · CloudWatch |
-| ☸️ Containers | Docker · Kubernetes · Helm |
-| 🏗️ Infrastructure | Terraform · Ansible |
-| 🔄 CI/CD | Jenkins · GitHub Actions · ArgoCD · GitOps |
-| 📊 Observability | Prometheus · Grafana · Splunk · ELK · Dynatrace · CloudWatch |
-| 🐧 Systems | Linux · Windows Server |
-| 🐍 Automation | Python · Bash |
-| 🌐 Networking | TCP/IP · DNS · HTTP/HTTPS · SSL/TLS · Load Balancing |
-
----
-
-# 🚀 Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-## ☸️ Kubernetes Observability Platform
-
-A cloud-native environment focused on Kubernetes,
-monitoring and reliability.
-
-**Stack**
-
-`AWS` `Kubernetes` `Terraform`
-
-`Prometheus` `Grafana` `OpenTelemetry`
-
-### Focus
-
-- Kubernetes workloads
-- Infrastructure as Code
-- Metrics & monitoring
-- Application observability
-- Reliability testing
-
-**[→ View Repository](#)**
-
-</td>
-
-<td width="50%">
-
-## ☁️ AWS Infrastructure
-
-Infrastructure-as-Code project for building
-reproducible AWS environments.
-
-**Stack**
-
-`AWS` `Terraform` `VPC`
-
-`IAM` `EKS` `CloudWatch`
-
-### Focus
-
-- Cloud infrastructure
-- Networking
-- IAM
-- EKS
-- Infrastructure automation
-
-**[→ View Repository](#)**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🐍 SRE Automation Toolkit
-
-Small automation utilities for common
-SRE and production operations tasks.
-
-**Stack**
-
-`Python` `Bash` `Linux`
-
-### Focus
-
-- Health checks
-- Log analysis
-- System monitoring
-- Operational automation
-
-**[→ View Repository](#)**
-
-</td>
-
-<td width="50%">
-
-## 🔭 SRE Learning Lab
-
-Hands-on experiments covering the
-fundamentals of reliable distributed systems.
-
-**Topics**
-
-`Linux` `Networking` `Kubernetes`
-
-`Observability` `SRE` `Distributed Systems`
-
-**[→ View Repository](#)**
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🏭 Production Experience
-
-### Site Reliability / DevOps — Enterprise Production
-
-**4+ years · 24×7 production environments**
-
-My production experience has included:
-
-- 🚨 P1/P2 Major Incident Management
-- 🔎 Root Cause Analysis
-- 📊 Production Observability
-- 🚀 Production Releases
-- 🔐 SSL/TLS & vulnerability remediation
-- 🔄 Change & Release Management
-- ♻️ Disaster Recovery
-- 📈 Capacity Planning
-- 🐳 Containerized workloads
-- ☸️ Kubernetes
-- ☁️ AWS infrastructure
-- 🔧 CI/CD automation
-
----
-
-# 🧠 Reliability Mindset
+# 🧭 THE SRE STACK
 
 ```text
-             ┌─────────────────┐
-             │     SYSTEM      │
-             └────────┬────────┘
-                      │
-                      ▼
-              ┌──────────────┐
-              │ OBSERVABILITY│
-              └──────┬───────┘
-                     │
-                     ▼
-               ┌───────────┐
-               │ DETECTION │
-               └─────┬─────┘
-                     │
-                     ▼
-              ┌─────────────┐
-              │   RESPONSE  │
-              └──────┬──────┘
-                     │
-                     ▼
-                ┌────────┐
-                │  RCA   │
-                └────┬───┘
-                     │
-                     ▼
-              ┌────────────┐
-              │ AUTOMATION │
-              └──────┬─────┘
-                     │
-                     ▼
-              ┌────────────┐
-              │ IMPROVEMENT│
-              └────────────┘
+                         ┌───────────────────────┐
+                         │      APPLICATION      │
+                         └───────────┬───────────┘
+                                     │
+                                     ▼
+                         ┌───────────────────────┐
+                         │      KUBERNETES       │
+                         │  Pods · Services ·    │
+                         │  Ingress · Deployments│
+                         └───────────┬───────────┘
+                                     │
+                    ┌────────────────┼────────────────┐
+                    ▼                ▼                ▼
+              ┌──────────┐    ┌──────────┐    ┌──────────┐
+              │ PROMETHEUS│    │  GRAFANA │    │  LOGGING │
+              └─────┬────┘    └──────────┘    └─────┬────┘
+                    │                                │
+                    └────────────────┬───────────────┘
+                                     ▼
+                         ┌───────────────────────┐
+                         │     OBSERVABILITY     │
+                         └───────────┬───────────┘
+                                     │
+                                     ▼
+                         ┌───────────────────────┐
+                         │   INCIDENT RESPONSE   │
+                         └───────────┬───────────┘
+                                     │
+                                     ▼
+                         ┌───────────────────────┐
+                         │    ROOT CAUSE         │
+                         │      ANALYSIS         │
+                         └───────────┬───────────┘
+                                     │
+                                     ▼
+                         ┌───────────────────────┐
+                         │      AUTOMATION       │
+                         └───────────────────────┘
