@@ -1,25 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00ff9c&height=220&section=header&text=PAVAN%20PANCHAL&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=SITE%20RELIABILITY%20ENGINEER%20%7C%20CLOUD%20%7C%20KUBERNETES%20%7C%20AUTOMATION&descSize=16&descAlignY=62" width="100%"/>
+# PAVAN PANCHAL
+
+### DEVOPS & SITE RELIABILITY ENGINEER
 
 <br>
 
-<a href="https://github.com/pavanp12">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=Building+reliable+systems.;Automating+the+boring+stuff.;Observability+%7C+Automation+%7C+Reliability;Cloud+Infrastructure+%7C+Kubernetes+%7C+SRE" />
-</a>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,githubactions,jenkins,git,github,python,bash,linux" />
 
 <br><br>
 
-<a href="https://github.com/pavanp12">
-<img src="https://img.shields.io/github/followers/pavanp12?label=Followers&style=for-the-badge&color=161b22&labelColor=00ff9c" />
-</a>
-
-<a href="https://github.com/pavanp12">
-<img src="https://img.shields.io/github/stars/pavanp12?label=Stars&style=for-the-badge&color=161b22&labelColor=00ff9c" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=for-the-badge&logo=linkedin&logoColor=00ff9c" />
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -28,88 +20,68 @@
 
 <div align="center">
 
-## ⚡ ENGINEERING MINDSET
+## ☁️ CLOUD
 
-### `OBSERVE → UNDERSTAND → AUTOMATE → IMPROVE`
+<img src="https://skillicons.dev/icons?i=aws" />
+
+**AWS**
+
+EC2 · VPC · S3 · EKS · ECS · ECR · IAM · Route 53 · CloudWatch
+
+---
+
+## ☸️ CONTAINERS & ORCHESTRATION
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+
+**Docker · Kubernetes · Helm**
+
+Deployments · Services · Ingress · ConfigMaps · Secrets
+
+---
+
+## 🏗️ INFRASTRUCTURE AS CODE
+
+<img src="https://skillicons.dev/icons?i=terraform,ansible" />
+
+**Terraform · Ansible**
+
+---
+
+## 🔄 CI/CD & GITOPS
+
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,github" />
+
+**Jenkins · GitHub Actions · Git · GitHub · ArgoCD**
+
+---
+
+## 📊 OBSERVABILITY
+
+**Prometheus · Grafana · Splunk · Dynatrace · ELK · CloudWatch · Node Exporter**
+
+---
+
+## 🐧 SYSTEMS & AUTOMATION
+
+<img src="https://skillicons.dev/icons?i=linux,python,bash" />
+
+**Linux · Windows Server · Python · Bash**
+
+---
+
+## 🌐 NETWORKING
+
+**TCP/IP · DNS · HTTP/HTTPS · SSL/TLS · Load Balancing**
 
 </div>
 
 <br>
 
-<table>
-<tr>
-<td width="33%" align="center">
+<div align="center">
 
-### ☁️ CLOUD
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Pavan%20Panchal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-AWS  
-EC2 · VPC · S3  
-EKS · IAM · CloudWatch
-
-</td>
-
-<td width="33%" align="center">
-
-### ☸️ PLATFORM
-
-Kubernetes  
-Docker · Helm  
-Terraform · ArgoCD
-
-</td>
-
-<td width="33%" align="center">
-
-### 📊 RELIABILITY
-
-Observability  
-Incident Response  
-RCA · DR · Automation
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧭 THE SRE STACK
-
-```text
-                         ┌───────────────────────┐
-                         │      APPLICATION      │
-                         └───────────┬───────────┘
-                                     │
-                                     ▼
-                         ┌───────────────────────┐
-                         │      KUBERNETES       │
-                         │  Pods · Services ·    │
-                         │  Ingress · Deployments│
-                         └───────────┬───────────┘
-                                     │
-                    ┌────────────────┼────────────────┐
-                    ▼                ▼                ▼
-              ┌──────────┐    ┌──────────┐    ┌──────────┐
-              │ PROMETHEUS│    │  GRAFANA │    │  LOGGING │
-              └─────┬────┘    └──────────┘    └─────┬────┘
-                    │                                │
-                    └────────────────┬───────────────┘
-                                     ▼
-                         ┌───────────────────────┐
-                         │     OBSERVABILITY     │
-                         └───────────┬───────────┘
-                                     │
-                                     ▼
-                         ┌───────────────────────┐
-                         │   INCIDENT RESPONSE   │
-                         └───────────┬───────────┘
-                                     │
-                                     ▼
-                         ┌───────────────────────┐
-                         │    ROOT CAUSE         │
-                         │      ANALYSIS         │
-                         └───────────┬───────────┘
-                                     │
-                                     ▼
-                         ┌───────────────────────┐
-                         │      AUTOMATION       │
-                         └───────────────────────┘
+</div>
